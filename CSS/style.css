@@ -1,0 +1,94 @@
+
+body {
+	height: 1440px;
+}
+
+.header-wrapper {
+	width: 1400px;
+	height: 50px;
+	margin: 0px;
+}
+.logo {
+	display: inline-block;
+	margin-left: 20px;
+	margin-right: 92px;
+	margin-top: 18px;
+	color: red;
+}
+.navigation {
+	display: inline-block;
+}
+.nav-li {
+	display: inline-block;
+	padding: 27px;
+	text-transform: uppercase;
+}
+.header-image {
+	display: inline-block;
+	margin-left: 40px;
+	margin-top: 11px;
+}
+.image-wrapper {
+	position: relative;
+}
+
+.conteiner {
+	width: 1160px;
+	height: 410px;
+	margin: 0 auto;
+}
+.block1,
+.block2,
+.block3 {
+	display: inline-block;
+	width: 360px;
+	height: 350px;
+	vertical-align: top;
+}
+.block2 {
+	margin-right: 40px;
+	margin-left: 40px;
+}
+.text {
+	width: 280px;
+	margin-top: 66px;
+	margin-bottom: 66px;
+	margin-left: 40px;
+	margin-right: 40px;
+}
+.text1 {
+	margin-bottom: 40px;
+	margin-left: 40px;
+}
+.conteiner1 {
+	width: 760px;
+	height: 896px;
+	margin-left: 20px;
+}
+.conteiner2 {
+	width: 360px;
+	height: 896px;
+	vertical-align: top;
+}
+.conteiner1,
+.conteiner2 {
+	display: inline-block;
+}
+.block6 {
+	margin-left: 25px;
+}
+.block7,
+.block8 {
+	margin-top: 114px;
+}
+.text-image {
+	position: absolute;
+	top: 28px;
+	left: 40px;
+	color: white;
+	font-family: 'Roboto', sans-serif;
+}
+
+
+
+
